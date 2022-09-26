@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "minibadge_kicad")(type "KiCad")(uri "${KIPRJMOD}/minibadge_kicad.pretty")(options "")(descr ""))
+  (lib (name "hhc")(type "KiCad")(uri "${KIPRJMOD}/hhc.pretty")(options "")(descr ""))
+)
