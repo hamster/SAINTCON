@@ -1931,8 +1931,21 @@
     (pin "9" (uuid d04e89f1-2a4a-4f1b-af14-41e09b7c93cc))
   )
 
+  (sheet (at 63.754 161.798) (size 24.13 13.462) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 26560972-4362-4887-bc88-50c3464405a4)
+    (property "Sheet name" "Circut Workbook" (id 0) (at 63.754 161.0864 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Circuits-Main.kicad_sch" (id 1) (at 63.754 175.8446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/26560972-4362-4887-bc88-50c3464405a4" (page "2"))
   )
 
   (symbol_instances

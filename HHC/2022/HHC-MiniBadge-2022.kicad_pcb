@@ -279,10 +279,10 @@
       (net 30 "+3.3V") (pinfunction "Pin_1") (pintype "passive") (tstamp 8351826e-5305-46bf-bc21-220f72cc180d))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 30 "+3.3V") (pinfunction "Pin_2") (pintype "passive") (tstamp 577a97b7-ed18-40a1-8f3f-a688a8002980))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -403,7 +403,7 @@
     (fp_line (start 1.27 -0.635) (end 1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp bc84aa88-4a91-4fa4-af02-c211c7e06198))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 25 "Net-(J21-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 9dc08dd1-5042-4661-a6de-eea2a1c34786))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -447,7 +447,7 @@
     (fp_line (start 1.27 -0.635) (end 1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp fc59c695-bfae-4e54-9434-46d580ff8bff))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 27 "Net-(J23-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp c8ad6360-a45b-4b04-9c68-c1502bfeb996))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -531,7 +531,7 @@
     (fp_line (start 1.27 1.27) (end -1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp eb4856f7-1add-4e76-9193-7e002f752d0b))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 21 "Net-(J17-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 7703cf57-a9f3-4d90-9a28-ff82fde3666d))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -575,7 +575,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp b34541e8-b7d2-4a8a-ac0d-c51225ce2eba))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 28 "Net-(J24-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp a2c6e624-dd6f-421a-98a3-657de6541dce))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -619,7 +619,7 @@
     (fp_line (start 1.27 1.27) (end -1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp f194d4c9-ad68-4fe8-addd-f8fbff49f5a5))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 23 "Net-(J19-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 31fd043e-dd5a-4519-9804-b43a8d46c44c))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -663,7 +663,7 @@
     (fp_line (start -1.27 1.27) (end -1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp 8b736678-9422-4ca7-9882-d83c2b408318))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 10 "Net-(D2-Pad2)") (pinfunction "Pin_1") (pintype "passive") (tstamp 0888b5cb-5174-44fb-b7b4-6d7127fbb641))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -710,10 +710,10 @@
       (net 14 "Net-(J4-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 6b19fcab-ce7c-472c-9ad2-fa9e2fe0b671))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 14 "Net-(J4-Pad1)") (pinfunction "Pin_2") (pintype "passive") (tstamp f51a95fb-4e9d-4cce-a8f1-846aaeeb21d5))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -911,7 +911,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp f2a2676f-df20-45cd-8164-3fe2abbefd27))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 19 "Net-(J15-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp c823f39b-1182-4eb6-9047-5654ceb432ae))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -955,7 +955,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp c36e2d8f-9c9d-46e3-a70f-1bfbbe6760dc))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 5 "Net-(C3-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 64889e9d-73e9-4363-83fa-b76d683af615))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -999,7 +999,7 @@
     (fp_line (start 1.27 -0.635) (end 1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp f3883236-08c3-4a18-aab0-2702956e966a))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 24 "Net-(J20-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 296280ce-0b55-49d2-87b3-443abdc77eef))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1126,10 +1126,10 @@
       (net 12 "Net-(J2-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 674a88d8-720f-4fbb-bdeb-d8a36e285acb))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 12 "Net-(J2-Pad1)") (pinfunction "Pin_2") (pintype "passive") (tstamp 667bb127-43f9-4390-bfb0-87b95e675208))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -1170,7 +1170,7 @@
     (fp_line (start 1.27 1.27) (end -1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp f0a0cba9-323b-4abf-9117-ca43a0f11169))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 6 "Net-(C3-Pad2)") (pinfunction "Pin_1") (pintype "passive") (tstamp 54cf5b34-a9bb-44e5-9b47-b437b0a285f3))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1214,7 +1214,7 @@
     (fp_line (start 1.27 1.27) (end -1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp fe85ce8d-4ba1-45a1-8734-8f3b9f494a18))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 20 "Net-(J16-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 486a78f8-a18f-4954-b741-bad626246da2))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1419,7 +1419,7 @@
     (fp_line (start 0.635 -1.27) (end 1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp e8108571-c2e6-49bc-9e1f-c2be9c5b6c8c))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 3 "Net-(C2-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 6335abe1-7012-46dc-8846-efc1514848ec))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1463,7 +1463,7 @@
     (fp_line (start 0.635 -1.27) (end 1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp 95128815-6044-416b-b1d6-c9c162a64bf5))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 22 "Net-(J18-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 7df7c512-dd26-469e-887d-e87fc7a4d96a))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1565,7 +1565,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp bff75374-b490-46c6-8f50-4a8231a6095b))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 17 "Net-(J13-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp b9fbcdb3-59da-4ed6-823c-e2a284140f8b))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1648,7 +1648,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp c708e7a2-7df7-4609-88e2-9f2b756ef45f))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 1 "Net-(C1-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 39270bd5-3de7-47b0-9066-91cd33f9afc4))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1692,7 +1692,7 @@
     (fp_line (start -1.27 1.27) (end -1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp f84b1d4c-c84d-45af-aeb0-da7f2c6c3193))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 26 "Net-(J22-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 3a963b86-96b8-4ba6-8c3e-55c6b91cd64a))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1778,10 +1778,10 @@
       (net 13 "Net-(J3-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 82f47fa9-a5f8-4c32-abc4-24815a519601))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 13 "Net-(J3-Pad1)") (pinfunction "Pin_2") (pintype "passive") (tstamp 1a739412-9c8a-4a36-bb93-31c6e9834eae))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -1822,7 +1822,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp d42c88b0-16fc-46b3-81c8-9c4efa718d0a))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 7 "Net-(D1-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 1c0cbf23-d83e-4417-b548-43e48a77b7b5))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2146,10 +2146,10 @@
       (net 15 "Net-(J5-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp e988a6d7-fcf5-466a-b2cb-7adfe2e5b3e6))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 15 "Net-(J5-Pad1)") (pinfunction "Pin_2") (pintype "passive") (tstamp 73e7c37c-a733-4b2b-bfce-44e429437b17))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -2193,10 +2193,10 @@
       (net 11 "Net-(J1-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 2ef3a416-9f42-4f62-a828-1cde0dde0364))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 11 "Net-(J1-Pad1)") (pinfunction "Pin_2") (pintype "passive") (tstamp 40066f59-d72b-47a7-872d-a8ba2273e423))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -2237,7 +2237,7 @@
     (fp_line (start 1.27 -0.635) (end 1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp ea95535b-3a60-4429-b327-4413f199fd24))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 2 "Net-(C1-Pad2)") (pinfunction "Pin_1") (pintype "passive") (tstamp 66e26339-5f92-4f6d-8924-8f75907bf0e0))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2284,10 +2284,10 @@
       (net 31 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp f15e903c-9c4f-44f4-aa68-7c46088e6936))
     (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 31 "GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 5d505068-247d-4819-b541-7cbb83277311))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2.54 MM 2 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -2387,7 +2387,7 @@
     (fp_line (start -1.27 1.27) (end -1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp babefcc3-a678-479d-ae33-48b57658558b))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 4 "Net-(C2-Pad2)") (pinfunction "Pin_1") (pintype "passive") (tstamp 28690133-47a1-49a3-b28c-9bf35bc739ea))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2431,7 +2431,7 @@
     (fp_line (start 0.635 -1.27) (end 1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp b549bfaf-5162-4aa6-a332-3c3d2c587b30))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 16 "Net-(J12-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 5ee05787-d9f4-4f2c-808b-6d498aa16448))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2475,7 +2475,7 @@
     (fp_line (start 0.635 -1.27) (end 1.27 -0.635) (layer "F.Fab") (width 0.1) (tstamp e9c6d932-f9f1-418d-ad96-a6320b629a43))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 18 "Net-(J14-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 540e8d5b-228d-42e1-bf15-4bdcf52802fc))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2519,7 +2519,7 @@
     (fp_line (start -1.27 -1.27) (end 0.635 -1.27) (layer "F.Fab") (width 0.1) (tstamp b7b7824a-5253-44a1-a3b4-5397f2d59254))
     (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 29 "Net-(J25-Pad1)") (pinfunction "Pin_1") (pintype "passive") (tstamp 2041829e-0994-42f1-bc3c-14ed6bd5095a))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl"
+    (model "C:/Users/hamster/Downloads/2 MM 1 Socket Header v3 v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
