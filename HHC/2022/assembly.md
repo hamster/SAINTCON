@@ -8,7 +8,7 @@ To get started, open your bag of parts and lay them out.  You should have the fo
 * A 555 chip
 * 2 each of 100 ohm, 1k ohm, 10k ohm and 100k ohm resistors
 * 3 capacitors, values of 1000uF, 100uF and 10uF
-* Two LEDs, a red and blue
+* Two LEDs, a red and green
 * One push button
 * A 40 pin header
 * A 40 pin socket
@@ -16,7 +16,7 @@ To get started, open your bag of parts and lay them out.  You should have the fo
 
 If you do not have any jumper wires, pick up about 8 of them from the HHC area.
 
-We also suggest that you do not break apart the panel of badges just yet.
+**We also suggest that you do not break apart the panel of badges just yet.**
 
 ![parts](images/IMG_3422.JPG)
 
@@ -57,7 +57,7 @@ Insert, and hold it flush with the board, then on the back side bend the leads a
 
 ![LEDs](images/IMG_3436.JPG)
 
-Once they are soldered, take your flush cuts and nip off the led.  Don't cut off the solder ball, just the lead.  Point the board so that the leads hit the table, or otherwise block the ends from flying off and blinding children.
+Once they are soldered, take your flush cuts and nip off the leads.  Don't cut off the solder ball, just the lead.  Point the board so that the leads hit the table, or otherwise block the ends from flying off and blinding children.
 
 Next insert the capacitors.  Note that the two electrolytic caps (the bigger ones) have a stripe that is the negative.  The PCB also has a white area.  Line these two things up.
 
@@ -65,7 +65,7 @@ Next insert the capacitors.  Note that the two electrolytic caps (the bigger one
 
 Now for the chip.  Note that the leads of the chip kinda stick out a little too far.  You will need to carefully place the chip on the side of the table and apply a little pressure to bend the leads square.  Don't overbend, or at least, don't do it too many times.
 
-Insert into the board, and use the little foam anti-static thingy to hold the chip up.  Solder just one pin.  Hold it up and check if the chip is sitting flat.  If not, apply a squeezing pressure with one hand, and tap the soldered pin with your iron using your other hand, and the chip will sit down.  Now you can solder the rest of the pins.
+Insert into the board, and use the little foam anti-static thingy to hold the chip up.  Solder just one pin.  Hold it up and check if the chip is sitting flat.  If not, apply a squeezing pressure with one hand, and tap the soldered pin with your iron using your other hand, and the chip will sit down.  Now you can solder the rest of the pins.  Don't burn yourself.
 
 ![chip](images/IMG_3438.JPG)
 
@@ -79,10 +79,11 @@ Resistors.  You have 8 total in 4 values.  Use the resistor color code sheet, or
 * Brown-Black-Red is 1k ohms
 * Brown-Black-Orange is 10k ohms
 * Brown-Black-Red is 100k ohms
+* This image is in the above order
 
 ![resist](images/IMG_3441.JPG)
 
-You will need to bend the LED legs such that one is bent all the way over, so that the resistors will end up standing.
+You will need to bend the resistor legs such that one is bent all the way over, so that the resistors will end up standing.
 
 ![bent](images/IMG_3442.JPG)
 
