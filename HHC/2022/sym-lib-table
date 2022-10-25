@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "saintcon-minibadge")(type "Legacy")(uri "${KIPRJMOD}/saintcon-minibadge.lib")(options "")(descr ""))
+  (lib (name "555")(type "KiCad")(uri "${KIPRJMOD}/555.kicad_sym")(options "")(descr ""))
 )

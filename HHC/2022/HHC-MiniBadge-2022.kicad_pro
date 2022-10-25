@@ -430,7 +430,39 @@
     ],
     [
       "26560972-4362-4887-bc88-50c3464405a4",
-      "Circut Workbook"
+      "Circuit Workbook"
+    ],
+    [
+      "4f2eb85b-0d70-405c-ac47-e80219102ab1",
+      "Circuit Symbols"
+    ],
+    [
+      "df7f4bbc-36b1-4484-802d-0571d001c578",
+      "Reading Schematics"
+    ],
+    [
+      "b71a7fdf-c1af-4484-b3b6-be2dbdb5f08c",
+      "Light the LED"
+    ],
+    [
+      "d1dcfa1c-963c-4d7f-bbd5-4eacce785b27",
+      "LEDs and Resistors"
+    ],
+    [
+      "2d8cd91c-41c8-45fc-ac98-e3c6b4f25876",
+      "Capacitors"
+    ],
+    [
+      "0b63fb29-13ed-49d7-bfd3-570af37e1b6f",
+      "The 555 - Astable"
+    ],
+    [
+      "dcf3d042-629b-402a-8cc0-9462e396516f",
+      "The 555 - Monostable"
+    ],
+    [
+      "f3db30b0-ef24-4e13-994a-c4af741a0a30",
+      "Series and Parallel"
     ]
   ],
   "text_variables": {}
