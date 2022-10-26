@@ -1,6 +1,6 @@
 # Minibadge Assembly
 
-To see a video of this assembly, [go here](https://gihub.com)
+To see a video of this assembly, [go here](https://youtu.be/9FIo1ZsZ8D4)
 
 To get started, open your bag of parts and lay them out.  You should have the following items:
 
@@ -78,7 +78,7 @@ Resistors.  You have 8 total in 4 values.  Use the resistor color code sheet, or
 * Brown-Black-Brown is 100 ohms
 * Brown-Black-Red is 1k ohms
 * Brown-Black-Orange is 10k ohms
-* Brown-Black-Red is 100k ohms
+* Brown-Black-Yellow is 100k ohms
 * This image is in the above order
 
 ![resist](images/IMG_3441.JPG)
