@@ -1,0 +1,44 @@
+{
+    "layout": {
+        "rows": "5",
+        "cols": "5"
+    },
+    "tabs": {
+        "type": "full"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "layer": "F.Fab"
+    },
+    "framing": {
+        "type": "railstb",
+        "vspace": "0mm",
+        "width": "7mm",
+        "chamferwidth": "1mm",
+        "chamferheight": "1mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "5mm",
+        "voffset": "4mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "10mm",
+        "voffset": "4mm",
+        "opening": "2mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2mm",
+        "text": "BITSTREAM HACKERS 2025 SAINTCON"
+    },
+    "page": {
+        "anchor": "c",
+        "posy": "50%"
+    },
+    "post": {
+        "origin": "bl",
+        "dimensions": "True"
+    }
+}
