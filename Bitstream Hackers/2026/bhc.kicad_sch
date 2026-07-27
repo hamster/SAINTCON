@@ -1396,20 +1396,20 @@
 		)
 	)
 	(junction
-		(at 205.486 100.584)
+		(at 205.74 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4589c3c6-7c9e-49c7-8317-c02da1d1843a")
 	)
 	(junction
-		(at 205.486 98.044)
+		(at 205.74 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5ce05ff-9c37-4849-9ece-d3b14c7f2127")
 	)
 	(wire
 		(pts
-			(xy 189.23 100.584) (xy 192.532 100.584)
+			(xy 189.23 100.33) (xy 193.04 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1419,7 +1419,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 76.708) (xy 160.02 98.044)
+			(xy 160.02 76.2) (xy 160.02 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1429,7 +1429,17 @@
 	)
 	(wire
 		(pts
-			(xy 200.152 103.124) (xy 205.486 103.124)
+			(xy 162.56 48.26) (xy 162.56 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c753f39-fabc-4aca-b619-984063520ef3")
+	)
+	(wire
+		(pts
+			(xy 200.66 102.87) (xy 205.74 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1439,7 +1449,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 76.708) (xy 147.32 83.058)
+			(xy 147.32 76.2) (xy 147.32 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1449,7 +1459,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 100.838) (xy 147.32 104.648)
+			(xy 147.32 100.33) (xy 147.32 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1459,7 +1469,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.152 100.584) (xy 205.486 100.584)
+			(xy 200.66 100.33) (xy 205.74 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1469,7 +1479,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.486 103.124) (xy 205.486 100.584)
+			(xy 205.74 102.87) (xy 205.74 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1479,7 +1489,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 100.584) (xy 157.48 100.584)
+			(xy 168.91 100.33) (xy 157.48 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1489,7 +1499,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.486 98.044) (xy 205.486 96.52)
+			(xy 205.74 97.79) (xy 205.74 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1499,7 +1509,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 103.124) (xy 192.532 103.124)
+			(xy 189.23 102.87) (xy 193.04 102.87)
 		)
 		(stroke
 			(width 0)
@@ -1509,7 +1519,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 98.044) (xy 192.532 98.044)
+			(xy 189.23 97.79) (xy 193.04 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1519,7 +1529,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 100.584) (xy 157.48 76.708)
+			(xy 157.48 100.33) (xy 157.48 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1529,7 +1539,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.486 100.584) (xy 205.486 98.044)
+			(xy 205.74 100.33) (xy 205.74 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1539,7 +1549,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 98.044) (xy 168.91 98.044)
+			(xy 160.02 97.79) (xy 168.91 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1549,7 +1559,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 90.678) (xy 147.32 93.218)
+			(xy 147.32 90.17) (xy 147.32 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1559,7 +1569,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.152 98.044) (xy 205.486 98.044)
+			(xy 200.66 97.79) (xy 205.74 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1569,7 +1579,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 162.56 53.848 0)
+		(at 162.56 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1580,7 +1590,7 @@
 		(fields_autoplaced yes)
 		(uuid "14bea65d-a1de-4d00-a5eb-7ad0a9023487")
 		(property "Reference" "#PWR06"
-			(at 162.56 57.658 0)
+			(at 162.56 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1591,7 +1601,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 162.56 49.53 0)
+			(at 162.56 43.942 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1601,7 +1611,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 53.848 0)
+			(at 162.56 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1612,7 +1622,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 53.848 0)
+			(at 162.56 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1623,7 +1633,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 162.56 53.848 0)
+			(at 162.56 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1647,7 +1657,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 147.32 86.868 180)
+		(at 147.32 86.36 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1658,7 +1668,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a8b7ded-1642-47a1-bdbf-6af1e27dd6e3")
 		(property "Reference" "R1"
-			(at 149.352 85.5979 0)
+			(at 149.352 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1669,7 +1679,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 149.352 88.1379 0)
+			(at 149.352 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1680,7 +1690,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 149.098 86.868 90)
+			(at 149.098 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1691,7 +1701,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 86.868 0)
+			(at 147.32 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1702,7 +1712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 147.32 86.868 0)
+			(at 147.32 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1728,7 +1738,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 147.32 104.648 0)
+		(at 147.32 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1739,7 +1749,7 @@
 		(fields_autoplaced yes)
 		(uuid "29ec6704-33ec-4913-a2d7-582e62122bd8")
 		(property "Reference" "#PWR03"
-			(at 147.32 110.998 0)
+			(at 147.32 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1750,7 +1760,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 147.32 108.7835 0)
+			(at 147.32 108.2755 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1760,7 +1770,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 104.648 0)
+			(at 147.32 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1771,7 +1781,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 104.648 0)
+			(at 147.32 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1782,7 +1792,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 147.32 104.648 0)
+			(at 147.32 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1804,85 +1814,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 149.86 53.848 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30fca70c-decf-4078-9078-9fa300ccc999")
-		(property "Reference" "#PWR05"
-			(at 149.86 47.498 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 149.86 50.3461 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 149.86 53.848 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 53.848 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 149.86 53.848 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e754d38c-4c00-4e79-9d9b-856dc8aaaf4a")
-		)
-		(instances
-			(project "bhc"
-				(path "/c4b4abd3-b0c5-496d-8f14-04c12d42d98d"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 196.342 103.124 0)
+		(at 196.85 102.87 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -1893,7 +1826,7 @@
 		(dnp no)
 		(uuid "3d55b610-cb2f-4ece-abfc-e9b14bd64b8b")
 		(property "Reference" "JP3"
-			(at 192.786 101.854 0)
+			(at 193.294 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1903,7 +1836,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 196.342 100.33 0)
+			(at 196.85 100.076 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1914,7 +1847,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 196.342 103.124 0)
+			(at 196.85 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1925,7 +1858,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.342 103.124 0)
+			(at 196.85 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1936,7 +1869,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 196.342 103.124 0)
+			(at 196.85 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1963,7 +1896,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 147.32 97.028 90)
+		(at 147.32 96.52 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1974,7 +1907,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d61396f-619c-4c70-814c-7484d0ee40f9")
 		(property "Reference" "D1"
-			(at 151.13 97.3454 90)
+			(at 151.13 96.8374 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1985,7 +1918,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 151.13 99.8854 90)
+			(at 151.13 99.3774 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1996,7 +1929,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 147.32 97.028 0)
+			(at 147.32 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2007,7 +1940,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 97.028 0)
+			(at 147.32 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2018,7 +1951,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 147.32 97.028 0)
+			(at 147.32 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2044,7 +1977,7 @@
 	)
 	(symbol
 		(lib_id "MiniBadge:MiniBadge_Full")
-		(at 156.21 65.278 0)
+		(at 156.21 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2055,7 +1988,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e23a44c-27ad-4795-b336-ed715d0b197d")
 		(property "Reference" "MB1"
-			(at 170.18 64.0079 0)
+			(at 170.18 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2066,7 +1999,7 @@
 			)
 		)
 		(property "Value" "MiniBadge_Simple"
-			(at 170.18 66.5479 0)
+			(at 170.18 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2077,7 +2010,7 @@
 			)
 		)
 		(property "Footprint" "lib_fp:MiniBadge_Full"
-			(at 156.21 65.278 0)
+			(at 156.21 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2088,7 +2021,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 65.278 0)
+			(at 156.21 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2099,7 +2032,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 156.21 65.278 0)
+			(at 156.21 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2168,7 +2101,7 @@
 	)
 	(symbol
 		(lib_id "Memory_EEPROM:AT24CS01-SSHM")
-		(at 179.07 100.584 0)
+		(at 179.07 100.33 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -2179,7 +2112,7 @@
 		(dnp no)
 		(uuid "431bd3b1-22dd-46e4-9df7-c7ca1d1cab75")
 		(property "Reference" "U1"
-			(at 173.99 93.726 0)
+			(at 173.99 93.472 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2190,7 +2123,7 @@
 			)
 		)
 		(property "Value" "AT24CS01-SSHM"
-			(at 197.104 93.726 0)
+			(at 197.104 93.472 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2201,7 +2134,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 179.07 100.584 0)
+			(at 179.07 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2212,7 +2145,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf"
-			(at 179.07 100.584 0)
+			(at 179.07 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2223,7 +2156,7 @@
 			)
 		)
 		(property "Description" "I2C Serial EEPROM, 1Kb (128x8) with Unique Serial Number, SO8"
-			(at 179.07 100.584 0)
+			(at 179.07 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2268,7 +2201,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 179.07 92.964 0)
+		(at 179.07 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2279,7 +2212,7 @@
 		(fields_autoplaced yes)
 		(uuid "467a1c87-7a67-43ee-bfbe-1dc551386549")
 		(property "Reference" "#PWR07"
-			(at 179.07 96.774 0)
+			(at 179.07 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2290,7 +2223,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 179.07 88.646 0)
+			(at 179.07 88.392 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2300,7 +2233,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 92.964 0)
+			(at 179.07 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2311,7 +2244,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 92.964 0)
+			(at 179.07 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2322,7 +2255,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 179.07 92.964 0)
+			(at 179.07 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2346,7 +2279,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 76.708 0)
+		(at 165.1 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2357,7 +2290,7 @@
 		(fields_autoplaced yes)
 		(uuid "680df86b-c2fc-4c22-8d30-bce57fedf3dd")
 		(property "Reference" "#PWR01"
-			(at 165.1 83.058 0)
+			(at 165.1 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2368,7 +2301,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 80.8435 0)
+			(at 165.1 80.3355 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2378,7 +2311,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 76.708 0)
+			(at 165.1 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2389,7 +2322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 76.708 0)
+			(at 165.1 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2400,7 +2333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 76.708 0)
+			(at 165.1 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2423,7 +2356,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 205.486 96.52 0)
+		(at 205.74 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2434,7 +2367,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac2a1e31-df14-480b-98fa-f7382d046783")
 		(property "Reference" "#PWR08"
-			(at 205.486 100.33 0)
+			(at 205.74 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2445,7 +2378,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 205.486 92.202 0)
+			(at 205.74 92.202 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2455,7 +2388,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.486 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2466,7 +2399,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.486 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2477,7 +2410,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 205.486 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2500,29 +2433,19 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 196.342 98.044 0)
-		(mirror y)
+		(lib_id "power:GND")
+		(at 165.1 53.34 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "de60857a-f181-4354-a279-e9dec780e23b")
-		(property "Reference" "JP1"
-			(at 192.786 96.774 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 196.342 95.25 0)
+		(fields_autoplaced yes)
+		(uuid "b533cc1c-46e8-4d3f-b18c-8b0e06400d4c")
+		(property "Reference" "#PWR010"
+			(at 165.1 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2532,8 +2455,18 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 196.342 98.044 0)
+		(property "Value" "GND"
+			(at 165.1 49.8381 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2544,7 +2477,84 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.342 98.044 0)
+			(at 165.1 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 165.1 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49b2c8fe-bee6-4554-984e-39c5ec7dadfb")
+		)
+		(instances
+			(project "bhc"
+				(path "/c4b4abd3-b0c5-496d-8f14-04c12d42d98d"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 196.85 97.79 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "de60857a-f181-4354-a279-e9dec780e23b")
+		(property "Reference" "JP1"
+			(at 193.294 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 196.85 94.996 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 196.85 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2555,7 +2565,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 196.342 98.044 0)
+			(at 196.85 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2582,7 +2592,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 179.07 108.204 0)
+		(at 179.07 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2593,7 +2603,7 @@
 		(fields_autoplaced yes)
 		(uuid "e007f2c0-ff39-4bbc-8a24-4bcb611a5496")
 		(property "Reference" "#PWR02"
-			(at 179.07 114.554 0)
+			(at 179.07 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2604,7 +2614,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 179.07 112.3395 0)
+			(at 179.07 112.0855 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2614,7 +2624,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 108.204 0)
+			(at 179.07 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2625,7 +2635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 108.204 0)
+			(at 179.07 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2636,7 +2646,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 108.204 0)
+			(at 179.07 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2658,29 +2668,19 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 196.342 100.584 0)
-		(mirror y)
+		(lib_id "power:GND")
+		(at 149.86 53.34 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "fd588792-9935-4910-90c8-632392d6f457")
-		(property "Reference" "JP2"
-			(at 192.786 99.314 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 196.342 97.79 0)
+		(fields_autoplaced yes)
+		(uuid "eaec95c3-6f84-4177-b137-5f7e433acf29")
+		(property "Reference" "#PWR011"
+			(at 149.86 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2690,8 +2690,18 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 196.342 100.584 0)
+		(property "Value" "GND"
+			(at 149.86 49.8381 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2702,7 +2712,84 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.342 100.584 0)
+			(at 149.86 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 149.86 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "255721d8-aa94-40f2-a5fe-b0ed70969048")
+		)
+		(instances
+			(project "bhc"
+				(path "/c4b4abd3-b0c5-496d-8f14-04c12d42d98d"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 196.85 100.33 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "fd588792-9935-4910-90c8-632392d6f457")
+		(property "Reference" "JP2"
+			(at 193.294 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 196.85 97.536 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 196.85 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2713,7 +2800,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 196.342 100.584 0)
+			(at 196.85 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

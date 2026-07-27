@@ -76,7 +76,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|115335000|76945000|336a74ef-cff7-4753-9c38-27fcb6bcab51|7eab4908-f495-4cb4-ad41-d0a268e4076e|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|115335000|94725000|336a74ef-cff7-4753-9c38-27fcb6bcab51|9a53eedf-9d68-4a10-ba13-6e877d2a20ef|B.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -548,7 +557,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "output/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -683,7 +692,7 @@
         "uuid": "c4b4abd3-b0c5-496d-8f14-04c12d42d98d"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR9-11",
     "variants": []
   },
   "sheets": [
