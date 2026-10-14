@@ -784,18 +784,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "MB"
-				(at 8.89 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MiniBadge_Full"
-				(at -10.16 0 0)
+			(property "Reference" "MB1"
+				(at 13.97 1.2701 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -805,7 +795,18 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Value" "MiniBadge_Simple"
+				(at 13.97 -1.2699 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "lib_fp:MiniBadge_Full"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1068,7 +1069,7 @@
 						)
 					)
 				)
-				(pin bidirectional clock
+				(pin bidirectional line
 					(at 1.27 -11.43 90)
 					(length 3.81)
 					(name "SCL"
@@ -1407,6 +1408,34 @@
 		(color 0 0 0 0)
 		(uuid "b5ce05ff-9c37-4849-9ece-d3b14c7f2127")
 	)
+	(no_connect
+		(at 157.48 53.34)
+		(uuid "08f8c793-a1f4-4edd-acec-a708b959308d")
+	)
+	(no_connect
+		(at 168.91 102.87)
+		(uuid "1c0109a7-876c-475c-bd35-bd6de81148b8")
+	)
+	(no_connect
+		(at 162.56 76.2)
+		(uuid "735b58b4-40af-48af-8d0a-997fa42c65f0")
+	)
+	(no_connect
+		(at 152.4 53.34)
+		(uuid "af51d139-6f44-4bba-9d9b-7edbbe0a9b58")
+	)
+	(no_connect
+		(at 160.02 53.34)
+		(uuid "d53ca75a-6f2c-43d6-b27d-7fdfe3697ff9")
+	)
+	(no_connect
+		(at 147.32 53.34)
+		(uuid "f3e5102b-b958-41f9-a7af-e2edafa8d378")
+	)
+	(no_connect
+		(at 154.94 53.34)
+		(uuid "fb8628b2-a9f0-4522-9b48-2c6d11b7fdb9")
+	)
 	(wire
 		(pts
 			(xy 189.23 100.33) (xy 193.04 100.33)
@@ -1668,7 +1697,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a8b7ded-1642-47a1-bdbf-6af1e27dd6e3")
 		(property "Reference" "R1"
-			(at 149.352 85.0899 0)
+			(at 149.86 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1678,8 +1707,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 149.352 87.6299 0)
+		(property "Value" "33R"
+			(at 149.86 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2122,8 +2151,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "AT24CS01-SSHM"
-			(at 197.104 93.472 0)
+		(property "Value" "M24C08"
+			(at 187.706 93.726 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
